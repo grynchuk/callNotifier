@@ -1,6 +1,6 @@
 <?php
 
-лджлждлдж
+
 include_once '../ei_usefull_class.php';
  require 'app/autoLoader.php';
  require '../composer/vendor/autoload.php';
